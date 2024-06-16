@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_container_layouts",
+  "info": {
+    "displayName": "layout",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "subHeading": {
+      "type": "string"
+    }
+  }
+}
