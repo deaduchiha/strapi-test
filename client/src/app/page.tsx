@@ -1,3 +1,4 @@
+import CategorySearch from "@templates/category-search/CategorySearch";
 import Hero from "@templates/hero/Hero";
 
 export default function Home() {
@@ -5,6 +6,8 @@ export default function Home() {
     <div>
       {/* Hero section */}
       <Hero />
+      {/* Search & Category */}
+      <CategorySearch />
     </div>
   );
 }
